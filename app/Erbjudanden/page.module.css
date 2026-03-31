@@ -1,0 +1,12 @@
+.heroSection {
+  position: relative;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-attachment: fixed;
+}
+
+.heroBg {
+  background-image: linear-gradient(135deg, rgba(196, 30, 30, 0.9) 0%, rgba(26, 15, 10, 0.95) 100%);
+}
